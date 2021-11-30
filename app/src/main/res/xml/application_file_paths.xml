@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="images"
+        path="Android/data/com.example.retrofit/files/Pictures/" />
+<!--        path="Android/data/com.example.android.lodhaqa/files/Pictures/" />-->
+    <files-path
+        name="shared"
+        path="shared/" />
+</paths>
