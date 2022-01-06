@@ -75,11 +75,7 @@ Context mContext;
 
     }
 
-    @Override
-    public void DoLoginOnSuccess(List<MainModel> mainModelList) {
-
-
-    }
+ 
 
     @Override
     public void getProjectList(List<ProjectModel> projectModelList) {
