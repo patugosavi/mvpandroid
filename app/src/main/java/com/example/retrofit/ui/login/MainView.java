@@ -14,7 +14,7 @@ public interface MainView {
 //    void onSuccess(String a);
       void onFailure(String onError);
 
-    void DoLoginOnSuccess(List<MainModel> mainModelList);
+  
 
     void getProjectList(List<ProjectModel> projectModelList);
 
